@@ -58,19 +58,19 @@ ball_by_ball_data.csv – raw dataset
 IPL data analysis ball_by_ball.sql – analysis queries
 
 ## 📊 Analysis & Key Work Done (Exact from SQL File)
- 🔹 Database & Table Setup
+### 🔹 Database & Table Setup
 
 Created a dedicated database for IPL analysis
 
 Designed a structured ball_by_ball table to store delivery-level data
 
- 🔹 Tournament Coverage Analysis
+### 🔹 Tournament Coverage Analysis
 
 Calculated total number of matches
 
 Calculated total number of seasons
 
-🔹 Batting Analysis
+### 🔹 Batting Analysis
 
 Identified Top 10 run scorers across all seasons
 
@@ -82,7 +82,7 @@ Applied a minimum 300-ball filter for fairness
 
 Ranked batters by strike rate
 
-🔹 Bowling Analysis
+### 🔹 Bowling Analysis
 
 Identified Top 10 wicket-taking bowlers
 
@@ -92,7 +92,7 @@ Runs conceded per over
 
 Overs calculated using valid (non-wide) deliveries
 
-🔹 Wicket Analysis
+### 🔹 Wicket Analysis
 
 Analyzed distribution of wicket types
 
@@ -100,13 +100,13 @@ Analyzed distribution of wicket types
 
 Ranked dismissal types by frequency
 
-🔹 Team Performance Analysis
+### 🔹 Team Performance Analysis
 
 Calculated total runs scored by each team
 
 Calculated total wickets taken by each bowling team
 
-🔹 Over-wise Analysis
+### 🔹 Over-wise Analysis
 
 Analyzed Powerplay overs (0–5):
 
@@ -118,7 +118,7 @@ Team-wise runs scored
 
 Identified overs where most wickets fall
 
-🔹 Extras Analysis
+### 🔹 Extras Analysis
 
 Calculated total runs contributed by:
 
@@ -132,7 +132,7 @@ Byes
 
 Penalty runs
 
-🔹 Innings-wise Performance
+### 🔹 Innings-wise Performance
 
 First Innings Analysis
 
