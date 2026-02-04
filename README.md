@@ -1,5 +1,7 @@
 # IPL-Ball-by-Ball-Data-Analysis-SQL-
 
+## “Dataset was split into three parts due to GitHub file size limitations.”
+
 ## 📌 Project Overview
 
 This project performs a detailed ball-by-ball analysis of IPL matches using SQL.
